@@ -18,6 +18,7 @@
 
   - [**Ubuntu-Zabbix**](https://github.com/VZ52/Ubuntu-Zabbix) — Zabbix 7 monitoring stack in Docker Compose with Telegram alerting and REST API automation
   - [**zabbix-ansible**](https://github.com/VZ52/zabbix-ansible) — Ansible playbooks deploying the stack above to a fresh Ubuntu VM with one command
+  - [**sysadmin-runbooks**](https://github.com/VZ52/sysadmin-runbooks) — Real production incident runbooks with PowerShell scripts for systematic diagnosis
   - [**ad-logon-tracker**](https://github.com/VZ52/ad-logon-tracker) — Legacy VBS logon scripts from production + PowerShell v2 refactor
   - [**portfolio**](https://github.com/VZ52/portfolio) — Personal site auto-deployed via GitHub Actions
 
