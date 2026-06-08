@@ -16,6 +16,8 @@
 
   ### Pet Projects
 
+  - [**hh-job-watcher**](https://github.com/VZ52/hh-job-watcher) — AI-powered job watcher: HH.ru OAuth + LLM scoring (DeepSeek/GigaChat) → Telegram alerts
+  - [**job-search-toolkit**](https://github.com/VZ52/job-search-toolkit) — Claude Code framework: `/apply` tailors CV+cover letter to each vacancy
   - [**Ubuntu-Zabbix**](https://github.com/VZ52/Ubuntu-Zabbix) — Zabbix 7 monitoring stack in Docker Compose with Telegram alerting and REST API automation
   - [**zabbix-ansible**](https://github.com/VZ52/zabbix-ansible) — Ansible playbooks deploying the stack above to a fresh Ubuntu VM with one command
   - [**sysadmin-runbooks**](https://github.com/VZ52/sysadmin-runbooks) — Real production incident runbooks with PowerShell scripts for systematic diagnosis
